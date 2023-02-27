@@ -1,5 +1,5 @@
 ---
-title: self-study-resource
+title: 那年我的前端自學資源
 date: 2023-02-26 23:33:08
 tags:
   - FRONTED
@@ -14,6 +14,8 @@ categories:
 ## 前言
 
 取之於社會，用之於社會，在轉職前看到了很多前輩、大神分享的自學資源，於是在正式轉職一年後的我也來分享一下我自己當初學習的資源，另外有覺得不錯的資源我也會不定時的更新。
+
+<!-- more -->
 
 ## 前端工程師 roadmap
 
@@ -106,7 +108,7 @@ CSS grid 小遊戲，一樣是一個前端很常用的屬性
 
 ### [所以說event loop到底是什麼玩意兒？](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=980s)
 
-非常簡顯易懂的講解了 event loop 跟 call back function 
+非常簡顯易懂的講解了 event loop 跟 call back function
 
 ### [ECMAScript 6 入门](https://es6.ruanyifeng.com/)
 
