@@ -2,9 +2,9 @@
 title: 讓別人看看 - ngrok
 date: 2023-02-28 00:20:02
 tags:
-  - ngrok
-  - develop
-  - server
+  - NGROK
+  - DEVELOP
+  - SERVER
 categories: 
   - DEVTOOL
 ---

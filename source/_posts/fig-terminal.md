@@ -2,9 +2,9 @@
 title: terminal 自動補全工具 - fig
 date: 2023-03-01 22:23:51
 tags:
-  - fig
-  - develop
-  - terminal
+  - FIG
+  - DEVELOP
+  - TERMINAL
 categories: 
   - DEVTOOL
 ---
