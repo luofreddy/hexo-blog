@@ -1,5 +1,5 @@
 ---
-title: hexo 設定部署到 s3 
+title: Hexo 設定部署到 S3 
 date: 2023-02-26 00:25:16
 tags: 
   -  HEXO

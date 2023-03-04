@@ -1,5 +1,5 @@
 ---
-title: terminal 自動補全工具 - fig
+title: Terminal 自動補全工具 - Fig
 date: 2023-03-01 22:23:51
 tags:
   - FIG
