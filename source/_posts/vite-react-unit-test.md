@@ -24,7 +24,7 @@ categories:
 
 
 ## 建立測試 Function 及 Unit Test
-```ts
+```typescript
 // add.ts
 
 export function add(a: number, b: number): number {
