@@ -13,6 +13,8 @@ categories:
 ---
 這篇文章主要是用來記錄一下，在 vite 中使用 react 如何加上 eslint 、 stylelint 以及 prettier。
 
+<!-- more -->
+
 ## 建立專案
 
 首先建立一個 vite react 的專案。
